@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Sunil Kumar Gautam 👋
 
-<!--
-**sunilkrgautam/sunilkrgautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔬 Postdoctoral Researcher at GE Aerospace, Bangalore
+- 🎓 Ph.D. (Power Electronics) – IIT Mandi (Thesis Submitted)
+- 🎓 M.Tech & B.Tech – Electrical Engineering
+- 💡 Research Focus: Wireless Power Transfer (WPT), Resonant Converters, EV Charging Systems
+- 📚 IEEE Graduate Student Member
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Research Interests
+- Wireless Power Transfer for Electric Vehicles
+- Resonant Converter Design (LCC, Series-Series Compensation)
+- High-Frequency Power Conversion
+- GaN & Wide Bandgap Devices
+- EMI/EMC in Power Electronics
+- Totem-Pole PFC Design
+- High Voltage & Power PCB Design
+
+---
+
+## 🛠 Technical Skills
+
+### ⚡ Power Electronics
+- Resonant Converters
+- Wireless Charging Systems
+- Totem-Pole PFC
+- Three-Level Inverters
+- Soft-Switching Techniques
+
+### 💻 Simulation & Design Tools
+- MATLAB/Simulink
+- ANSYS Maxwell
+- LTspice
+- PLECS
+
+### 🔧 Hardware & Embedded
+- High Voltage PCB Design
+- TI C2000 (F28004x) Programming
+- Code Composer Studio (CCS)
+- DSP Based Control Implementation
+
+---
+
+## 📄 Publications
+- Anti-Resonant Tank-based Wireless Charging of EVs for Ultra-Wide Voltage Application (IEEE PEDES 2024)
+- [Add other journal/conference papers]
+
+---
+
+## 📊 GitHub Stats
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [Add your LinkedIn link]
+- Google Scholar: [Add link]
+- Email: your-email@domain.com
+
+---
+
+⭐ "Passionate about designing next-generation high-efficiency power conversion systems."
