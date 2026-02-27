@@ -4,6 +4,7 @@
 - 🔬 Postdoctoral Researcher at GE Aerospace, Bangalore, India
 - 🎓 Ph.D. (Thesis Submitted) – Power Electronics at Indian Instritute Technology (IIT) Mandi, HP, India 
 - 📚 IEEE Graduate Student Member, IEEE
+- ⭐ Passionate about designing next-generation high-efficiency power conversion systems.
 ---
 ## 📫 Connect With Me
 - Email: d22005@students.iitmandi.ac.in, sunilkrgautam98@gmail.com
@@ -60,51 +61,55 @@
 - Renewable Energy Integration and DC Microgrid
 ---
 ## Industry Experience
-1.	GE Aerospace, Bangalore, India — Postdoctoral Researcher	       (February 2026–Present)
-	—	Ph.D. Research Intern                      (March–December 2025)
-•	Designed and developed of high-frequency power converters (SiC) for aerospace applications with focus on efficiency and thermal optimization.
-•	Engineered integrated power and control PCB designs, incorporating bus bars, gate drivers, sensing circuits, digital and analog control for high power density systems.
-•	Optimized wireless power transfer coils for improved coupling efficiency and reduced leakage inductance.
-•	Executed real-time digital control using TI DSP F28379D with advanced control and feedback algorithms.
-•	Conducted thermal analysis and validated hardware through rigorous testing and debugging.
-2.	Himachal Pradesh State Electricity Board Ltd., Shimla, India — Intern            (March-April 2021)
-•	Worked as a quality inspection intern, performing inspection and testing of newly installed distribution transformers in low-voltage networks.
-3.	Bharat Heavy Electricals Ltd. HERP, Varanasi, U.P., India — Intern                     (June-July 2019)
-•	Learned about switchyard configurations, protection, and overall plant operation.
-•	Observed heavy electrical equipment manufacturing and testing processes for power systems.
-4.	Lanco Thermal Power Station, Anapara, Sonbhadra, U.P., India — Intern            (June-July 2018)
-•	Gained exposure to thermal power plant operations, including switchyard layout, generator operation, and power transmission systems.
-•	Understood the practical aspects of generation, transmission, and distribution of electricity.
+##### 1.	GE Aerospace, Bangalore, India — Postdoctoral Researcher	       (February 2026–Present), Ph.D. Research Intern                      (March–December 2025)
+- Designed and developed of high-frequency power converters (SiC) for aerospace applications with focus on efficiency and thermal optimization.
+- Engineered integrated power and control PCB designs, incorporating bus bars, gate drivers, sensing circuits, digital and analog control for high power density systems.
+- Optimized wireless power transfer coils for improved coupling efficiency and reduced leakage inductance.
+- Executed real-time digital control using TI DSP F28379D with advanced control and feedback algorithms.
+- Conducted thermal analysis and validated hardware through rigorous testing and debugging.
+##### 2.	Himachal Pradesh State Electricity Board Ltd., Shimla, India — Intern            (March-April 2021)
+- Worked as a quality inspection intern, performing inspection and testing of newly installed distribution transformers in low-voltage networks.
+##### 3.	Bharat Heavy Electricals Ltd. HERP, Varanasi, U.P., India — Intern                     (June-July 2019)
+- Learned about switchyard configurations, protection, and overall plant operation.
+- Observed heavy electrical equipment manufacturing and testing processes for power systems.
+##### 4.	Lanco Thermal Power Station, Anapara, Sonbhadra, U.P., India — Intern            (June-July 2018)
+- Gained exposure to thermal power plant operations, including switchyard layout, generator operation, and power transmission systems.
+- Understood the practical aspects of generation, transmission, and distribution of electricity.
 ---
 
 ## RESEARCH & DEVELOPMENT PROJECTS
-- Contactless Slip Ring Wireless Power Transfer for Aircraft Applications – 7.2 kW 
-Design and development of a high-efficiency, contactless wireless power transfer system for aerospace applications, enabling reliable power delivery without mechanical slip rings.
-- Single-Stage Multi-Compatible Wireless Charging System for EVs with PFC and Buck Operation – 3.3 kW, 400 V
-Developing a grid-connected single-stage wireless charger with integrated PFC and buck functionality, optimized for multi-compatible EV charging (micro, sedan, SUV) with reduced component count.
-- Multi-Compatible Wireless Charging System for Electric Vehicles – 3.3 kW, 400 V
-Developed a 3.3 kW prototype capable of wirelessly charging 2-W, 3-W, and 4-W EVs at different power levels, voltage ratings, and air gaps, ensuring adaptability across vehicle categories.
-- Bidirectional Grid-Connected Voltage Source Converter
-Designed and implemented a bidirectional VSC for power exchange between the single-phase grid and a battery system, achieving unity power factor and efficient energy flow.
-- Dual Polarity Regulated Power Supplies - ±15 V, ±12 V, ±5 V
-Developed isolated dual polarity regulated power supplies for auxiliary circuits, delivering multiple output voltages for versatile industrial and control applications.
-- Synchronization of Solar PV-Wind-Battery-Based DC Microgrid for BLDC Motor-Driven Pump
-Implemented an integrated renewable energy microgrid for water pumping and battery charging, utilizing hybrid solar and wind sources with seamless synchronization.
-- Detecting Power Theft Prior to Feeding to Energy Meter and Intimating to Control Room by GSM
-Developed a system for early detection of power theft before the energy meter. On detection, the system disconnects supply and sends an SMS alert to the control station for legal action.
+##### 1. Contactless Slip Ring Wireless Power Transfer for Aircraft Applications – 7.2 kW 
+- Design and development of a high-efficiency, contactless wireless power transfer system for aerospace applications, enabling reliable power delivery without mechanical slip rings.
+##### 2. Single-Stage Multi-Compatible Wireless Charging System for EVs with PFC and Buck Operation – 3.3 kW, 400 V
+- Developing a grid-connected single-stage wireless charger with integrated PFC and buck functionality, optimized for multi-compatible EV charging (micro, sedan, SUV) with reduced component count.
+##### 3. Multi-Compatible Wireless Charging System for Electric Vehicles – 3.3 kW, 400 V
+- Developed a 3.3 kW prototype capable of wirelessly charging 2-W, 3-W, and 4-W EVs at different power levels, voltage ratings, and air gaps, ensuring adaptability across vehicle categories.
+##### 4. Bidirectional Grid-Connected Voltage Source Converter
+- Designed and implemented a bidirectional VSC for power exchange between the single-phase grid and a battery system, achieving unity power factor and efficient energy flow.
+##### 5. Dual Polarity Regulated Power Supplies - ±15 V, ±12 V, ±5 V
+- Developed isolated dual polarity regulated power supplies for auxiliary circuits, delivering multiple output voltages for versatile industrial and control applications.
+##### 6. Synchronization of Solar PV-Wind-Battery-Based DC Microgrid for BLDC Motor-Driven Pump
+- Implemented an integrated renewable energy microgrid for water pumping and battery charging, utilizing hybrid solar and wind sources with seamless synchronization.
+##### 7. Detecting Power Theft Prior to Feeding to Energy Meter and Intimating to Control Room by GSM
+- Developed a system for early detection of power theft before the energy meter. On detection, the system disconnects supply and sends an SMS alert to the control station for legal action.
 ---
 
 ## ACADEMIC QUALIFICATION
-#### Ph.D. in Power Ectronics
-School of Computing and Electrical Engineering at Indian Institute of Technology (IIT) Mandi, India - 2022-Present CGPA: 8.14
-#### M.Tech. in Electrical Engineering
-National Institute of Technology (NIT) Hamirpur, India - 2020-2022, CGPA: 8.45
-#### B.Tech. in Electrical Engineering 
-Rajkiya Engineering College Sonbhadra, India - 2016-2020, CGPA: 6.75
-#### 12th	
-Pt. JSRD Inter College, Pilakathua, Jaunpur, U.P. 	2013-2015,	84.8%
-#### 10th
-SIM Inter College, Hiramanpur, Jaunpur, U.P.	2009-2013,	84.4%
+##### 1. Ph.D. in Power Ectronics - 2022-Present
+School of Computing and Electrical Engineering at Indian Institute of Technology (IIT) Mandi, H.P., India 
+Grade: 8.14 (CGPA)
+##### 2. M.Tech. in Electrical Engineering - 2020-2022
+National Institute of Technology (NIT) Hamirpur, H.P., India 
+Grade: 8.45 (CGPA)
+##### 3. B.Tech. in Electrical Engineering - 2016-2020
+Rajkiya Engineering College Sonbhadra, U.P., India 
+Grade: 6.75 (CGPA)
+##### 4. 12th	- 2015
+Pt. JSRD Inter College, Pilakathua, Jaunpur, U.P., India 
+Grade: 84.8%
+##### 5. 10th - 2013
+SIM Inter College, Hiramanpur, Jaunpur, U.P., India 
+Grade: 84.4%
 
 ---
 
@@ -125,21 +130,21 @@ SIM Inter College, Hiramanpur, Jaunpur, U.P.	2009-2013,	84.4%
 ---
 
 ## RESPONSIBILITIES AND ACHIEVEMENTS
-- •	Received Student Travel Award at 2025 IEEE Energy Conversion Congress and Expo Asia (ECCE Asia), Bangalore, India, 2024.
-•	Received Subhasis Nandi Memorial Student Travel Award at IEEE International Conference on Power Electronics Drives and Energy Systems (PEDES), Surathkal, India, 2024.
-•	Chair of Power Electronics Society and Industrial Electronics Society (PELS & IES) at IEEE Student Branch Chapter IIT Mandi.
-•	Vice-chair of Robotics and Automation Society (RAS) at IEEE Student Branch Chapter IIT Mandi.
-•	Mess Secretary at IIT Mandi.
-•	Teaching assistant at IIT Mandi (Advance Electric Drives, Electrical System Around Us, Reverse Engineering, and Electromechanics).
-•	Teaching assistant at NIT Hamirpur (Basic Electrical Lab and Control System Lab).
-•	Class representative in the Electrical Engineering department at NIT Hamirpur H.P.
-•	Qualified GATE 2020
-•	Co-ordinator of Electrical Engineer’s Forum at REC Sonbhadra, U.P.
+- Received Student Travel Award at 2025 IEEE Energy Conversion Congress and Expo Asia (ECCE Asia), Bangalore, India, 2024.
+- Received Subhasis Nandi Memorial Student Travel Award at IEEE International Conference on Power Electronics Drives and Energy Systems (PEDES), Surathkal, India, 2024.
+- Chair of Power Electronics Society and Industrial Electronics Society (PELS & IES) at IEEE Student Branch Chapter IIT Mandi.
+- Vice-chair of Robotics and Automation Society (RAS) at IEEE Student Branch Chapter IIT Mandi.
+- Mess Secretary at IIT Mandi.
+- Teaching assistant at IIT Mandi (Advance Electric Drives, Electrical System Around Us, Reverse Engineering, and Electromechanics).
+- Teaching assistant at NIT Hamirpur (Basic Electrical Lab and Control System Lab).
+- Class representative in the Electrical Engineering department at NIT Hamirpur H.P.
+- Qualified GATE 2020
+- Co-ordinator of Electrical Engineer’s Forum at REC Sonbhadra, U.P.
 
 ---
 ## REFERENCE
-•	Dr. Moumita Das, Associate Professor, IIT Mandi, India                                                      -moumita@iitmandi.ac.in
-•	Dr. Himanshu Misra, Associate Professor, IIT Mandi, India                                                -himanshu@iitmandi.ac.in
-•	Dr. Jayanti Ganesh, Senior Engineer, GE Aerospace, Bangalore, India              -Jayanti.ganesh@geaerospace.com
+- Dr. Moumita Das, Associate Professor, IIT Mandi, India                                                      -moumita@iitmandi.ac.in
+- Dr. Himanshu Misra, Associate Professor, IIT Mandi, India                                                -himanshu@iitmandi.ac.in
+- Dr. Jayanti Ganesh, Senior Engineer, GE Aerospace, Bangalore, India              -Jayanti.ganesh@geaerospace.com
 
 ⭐ "Passionate about designing next-generation high-efficiency power conversion systems."
